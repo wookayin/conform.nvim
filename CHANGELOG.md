@@ -1,5 +1,16 @@
 # Changelog
 
+## [5.0.0](https://github.com/stevearc/conform.nvim/compare/v4.3.0...v5.0.0) (2023-12-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* formatter config functions take self as first argument ([#233](https://github.com/stevearc/conform.nvim/issues/233))
+
+### Code Refactoring
+
+* formatter config functions take self as first argument ([#233](https://github.com/stevearc/conform.nvim/issues/233)) ([659838f](https://github.com/stevearc/conform.nvim/commit/659838ff4244ef6af095395ce68aaaf99fa8e696))
+
 ## [4.3.0](https://github.com/stevearc/conform.nvim/compare/v4.2.0...v4.3.0) (2023-12-07)
 
 
